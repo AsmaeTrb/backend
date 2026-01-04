@@ -1,0 +1,81 @@
+[
+  {
+    "id": "1",
+    "name": "Admin",
+    "email": "admin@admin.com",
+    "password": "admin",
+    "role": "Admin"
+  },
+  {
+    "id": "2",
+    "name": "Asmae",
+    "email": "asmae@gmail.com",
+    "password": "1111",
+    "role": "Guest"
+  },
+  {
+    "name": "",
+    "email": "as",
+    "password": "",
+    "phone": "",
+    "gender": "",
+    "birthDate": "",
+    "address": "",
+    "city": "",
+    "country": "France",
+    "role": "Guest",
+    "id": "3"
+  },
+  {
+    "name": "",
+    "email": "asmae@gmail.fr",
+    "password": "1111",
+    "phone": "0677524015",
+    "gender": "Femme",
+    "birthDate": "2000-10-10",
+    "address": "jirarii rue 38 n9",
+    "city": "tanger",
+    "country": "Maroc",
+    "role": "Guest",
+    "id": "4"
+  },
+  {
+    "name": "",
+    "email": "hajar@gmail.com",
+    "password": "963852",
+    "phone": "0677520884",
+    "gender": "Femme",
+    "birthDate": "2000-10-10",
+    "address": "jirari rue 38 n 9",
+    "city": "Tanger",
+    "country": "Maroc",
+    "role": "Guest",
+    "id": "5"
+  },
+  {
+    "name": "",
+    "email": "asmae@tribakgmail.com",
+    "password": "963852",
+    "phone": "0677520884",
+    "gender": "Femme",
+    "birthDate": "2000-10-10",
+    "address": "jirari rue 38",
+    "city": "Tanger",
+    "country": "Maroc",
+    "role": "Guest",
+    "id": "6"
+  },
+  {
+    "name": "",
+    "email": "asmae.tribakk@gmail.com",
+    "password": "asmae",
+    "phone": "esfer",
+    "gender": "Homme",
+    "birthDate": "2000-10-10",
+    "address": "ff",
+    "city": "ff",
+    "country": "France",
+    "role": "Guest",
+    "id": "7"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "email": "asmae@gmail.com",
+    "items": [
+      {
+        "id": "12",
+        "size": "38",
+        "quantity": 2,
+        "name": "Cardigan cache-cœur imprimé « En Désordre à Fleurs »",
+        "price": 2400,
+        "image": "./assets/im21.jpg",
+        "availableQuantity": 2,
+        "payOption": false
+      }
+    ],
+    "total": 4800,
+    "isGift": false,
+    "id": 4,
+    "date": "2025-06-20T23:05:19.318Z",
+    "status": "Livré ✅"
+  },
+  {
+    "email": "asmae@gmail.com",
+    "items": [
+      {
+        "id": "11",
+        "size": "44",
+        "quantity": 1,
+        "name": "Chemise en popeline compacte",
+        "price": 210,
+        "image": "./assets/im13.jpg",
+        "availableQuantity": 1,
+        "payOption": false
+      }
+    ],
+    "total": 210,
+    "isGift": false,
+    "id": 5,
+    "date": "2025-06-20T23:05:35.801Z"
+  }
+]
